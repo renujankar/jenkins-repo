@@ -33,7 +33,7 @@ pipeline {
 
             steps {
                 
-                    echo "This is qa branch"
+                    echo "This is dev branch"
                 }
             
         }
